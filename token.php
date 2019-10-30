@@ -1,6 +1,6 @@
 <?php
 
-// Created By : Gidhan Bagus Algary
+// Created By : Wik Wik
 
 // Header
 $secret = '83415d06-ec4e-11e6-a41b-6c40088ab51e';
